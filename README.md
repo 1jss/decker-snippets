@@ -1,6 +1,5 @@
 # Decker Snippets
 Collection of useful snippets to use in Decker
-[TOC]
 
 ## Color
 
